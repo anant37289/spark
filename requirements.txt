@@ -8,7 +8,7 @@ pandas==1.5.1
 Pillow==9.2.0
 # Pillow==10.0.1
 Requests==2.31.0
-sld==0.0.1
+#sld==0.0.1
 torch==2.0.1
 torchvision==0.15.2
 tqdm==4.64.1
